@@ -38,11 +38,12 @@ object **JHONATA** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhongalante&show_icons=true&theme=dracula&line_height=27" alt="**Jhonata Galante** github stats"/>
 </a>
 
+[gmail]: mailto:jhonata.galante@gmail.com
 [twitter]: https://twitter.com/jhongalante
 [linkedin]: https://www.linkedin.com/in/jhonata-galante-495947b0/
 <br>
 
 #### Rede Sociais!
-
+:email: [gmail][gmail] **|**
 🐦 [twitter][twitter] **|**
 👔 [linkedin][linkedin]
