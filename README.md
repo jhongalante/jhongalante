@@ -7,7 +7,7 @@ I've been working as fullstack software developer for ~3 years with a lot of sta
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **JHONATA** {
+object **DEV** {
  val name = "Jhonata Amado Galante"
  val acknowledgements = "Fullstack Development"
  
