@@ -33,7 +33,7 @@ object **DEV** {
 
 [gmail]: mailto:jhonata.galante@gmail.com
 [twitter]: https://twitter.com/jhongalante
-[linkedin]: https://www.linkedin.com/in/jhonata-galante-495947b0/
+[linkedin]: https://www.linkedin.com/in/jhonata-galante/
 <br>
 
 #### Rede Sociais!
