@@ -11,8 +11,8 @@ object **DEV** {
  val name = "Jhonata Amado Galante"
  val acknowledgements = "Fullstack Development"
  
- val primarySkillset = "NodeJS, VueJS, Laravel"
- val languages = listOf("Javascript", "Typescript", "PHP") 
+ val primarySkillset = "NodeJS, VueJS, NestJS"
+ val languages = listOf("Javascript", "Typescript", "PHP", "C#")
 
 }
 ```
