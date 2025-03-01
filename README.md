@@ -1,6 +1,6 @@
 ### Hey devs 👋
 
-I've been working as fullstack software developer for ~3 years with some stacks. I have been working with NodeJS/Typescript, NestJS and EmberJS.
+I've been working as fullstack software developer for ~3 years with some stacks. I have been working with .Net, C#, NodeJS/Typescript, NestJS and EmberJS.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
